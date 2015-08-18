@@ -1,0 +1,3 @@
+[submodule "procedural-map-generation"]
+	path = procedural-map-generation
+	url = https://github.com/BedfordWest/procedural-map-generation.git
